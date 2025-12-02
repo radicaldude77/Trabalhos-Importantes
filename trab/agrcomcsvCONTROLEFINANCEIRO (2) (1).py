@@ -59,7 +59,7 @@ def registrar_movimento():
     tiposcategoria = [
         "despesa fixa",
         "despesa variável",
-        "receita operacional",
+        "receita salarial",
         "receita extra",
         "investimento",
         "custo de produção"
